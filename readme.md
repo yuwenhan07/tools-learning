@@ -1,1 +1,2 @@
-this is a test
+# todo 
+### 学习git的使用方法
